@@ -11,4 +11,4 @@ A scalable 2D Game Framework
 * [ ] Inventory and Trade
 * [ ] Cutscenes and Minigames
 
-[An Internal Link](documentation/page2)
+[An Internal Link](documentation/page2.md)
